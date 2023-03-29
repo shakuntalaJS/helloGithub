@@ -1,2 +1,2 @@
-console.log("Finally bug has been fixed")
+console.log("Finally bug has been fixed !")
 
