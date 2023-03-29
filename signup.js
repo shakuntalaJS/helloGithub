@@ -1,2 +1,2 @@
-console.log("Wrong Coding bro please fix this")
+console.log("Finally bug has been fixed")
 
